@@ -1,6 +1,6 @@
 #include <PS2Keyboard.h>
 
-*  PS2Keyboard library example
+/*  PS2Keyboard library example
   
   PS2Keyboard now requries both pins specified for begin()
   keyboard.begin(data_pin, irq_pin);
